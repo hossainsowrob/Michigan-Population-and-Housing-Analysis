@@ -18,5 +18,10 @@ The goal is to understand how housing growth compares to population expansion in
 	•	Counties such as Lake and Montmorency showed the highest population growth but slower housing development, indicating potential housing pressure.
 	•	The correlation chart reveals that population growth generally outpaced housing availability across high-growth regions.
 
+	Files
+	•	Michigan population and housing trend analysis.xlsx
+	•	PHOTO-2025-11-12-00-30-33.jpg
+
+
 Conclusion:
 This analysis highlights a widening gap between Michigan’s population increase and available housing supply, emphasizing the need for proactive housing policy planning in rapidly growing counties.
